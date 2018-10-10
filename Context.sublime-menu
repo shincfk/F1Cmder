@@ -1,0 +1,13 @@
+[
+{
+	"id" : "cmder",
+	"caption": "cmder",
+	"children":
+	[
+	{
+		"caption" : "run",
+		"command" : "cmder"
+	}
+	]
+}
+]
