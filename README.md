@@ -11,4 +11,4 @@ emmmmmmmm....
 
 
 ## Use
-将Cmder解压到C盘，Sublime使用时触发F1即可直接调出Cmder
+将Cmder[](https://github.com/cmderdev/cmder/releases/download/v1.3.6/cmder_mini.zip)解压到C盘，Sublime使用时触发F1即可直接调出Cmder
